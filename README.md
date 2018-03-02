@@ -49,7 +49,7 @@ Notebooks são documentos que contem partes que podem ser executadas como códig
 
 # Onde estamos
 * Universidade Federal da Paraíba
-* Centro de Informatática
+* Centro de Informática
 * Laboratórios de pesquisa LAViD/Visio
 
 
