@@ -34,10 +34,27 @@ $ source activate dl-ufpb
 
 Notebooks são documentos que contem partes que podem ser executadas como código, e outras com elementos de texto (e.g. paragrafos, imagens, equações Latex, links), facilitando a interpretação e documentação de forma mais didatica. O Jupyter é uma aplicação que edita e executa os Notebooks pelo navegador.
 
+# Utilização
+
+1. Abra o terminal e clone o repositorio:
+
+```
+$ git clone https://github.com/cflavs/DeepLearning-DisciplinaUFPB.git
+```
+
+2. Acesse o diretorio e digite:
+
+```
+$ jupyter notebook
+```
+
+Ao fazer isso, o seu navegador devera abrir uma janela correspondente ao conteudo do repositorio. Caso isso nao ocorra, o link do repositorio estara disponivel no terminal 
+
+
 # Materiais de Apoio
 
 * The Deep Learning Book (Ian Goodfellow and Yoshua Bengio and Aaron Courville, 2016)
-* Deep Learning: A Practitioner's Approach (Josh Patterson)
+* Deep Learning: A Practitioner's Approach (Josh Patterson, 2016)
 
 # Equipe
 
