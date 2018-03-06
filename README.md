@@ -32,23 +32,23 @@ $ source activate dl-ufpb
 
 ## Jupyter Notebook
 
-Notebooks são documentos que contem partes que podem ser executadas como código, e outras com elementos de texto (e.g. paragrafos, imagens, equações Latex, links), facilitando a interpretação e documentação de forma mais didatica. O Jupyter é uma aplicação que edita e executa os Notebooks pelo navegador.
+Notebooks são documentos que contém partes que podem ser executadas como código, e outras com elementos de texto (e.g. parágrafos, imagens, equações Latex, links), facilitando a interpretação e documentação de forma mais didática. O Jupyter é uma aplicação que edita e executa os Notebooks pelo navegador.
 
 # Utilização
 
-1. Abra o terminal e clone o repositorio:
+1. Abra o terminal e clone o repositório:
 
 ```
 $ git clone https://github.com/cflavs/DeepLearning-DisciplinaUFPB.git
 ```
 
-2. Acesse o diretorio e digite:
+2. Acesse o diretório e digite:
 
 ```
 $ jupyter notebook
 ```
 
-Ao fazer isso, o seu navegador devera abrir uma janela correspondente ao conteudo do repositorio. Caso isso nao ocorra, o link do repositorio estara disponivel no terminal 
+Ao fazer isso, o seu navegador deverá abrir uma janela correspondente ao conteúdo do repositório. Caso isso não ocorra, o link do repositório estará disponível no terminal 
 
 
 # Materiais de Apoio
@@ -61,7 +61,7 @@ Ao fazer isso, o seu navegador devera abrir uma janela correspondente ao conteud
 * Prof. Leonardo Vidal
 * Profa. Thais Gaudencio
 * Prof. Tiago Maritan
-* Cecilia Flavia 
+* Cecília Flávia 
 * Lira Neto
 
 # Onde estamos
