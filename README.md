@@ -1,5 +1,5 @@
 # DeepLearning-DisciplinaUFPB
-Repositório com o material de apoio para a disciplina Tópicos Avançados em PDI (Deep Learning), ministrada pelos professores Leonardo Vidal, Tiago Maritan e Thaís Gaudencio no Centro de Informática (UFPB).
+Repositório com o material de apoio para as disciplinas de Deep Learning, ministradas pelos professores Leonardo Vidal, Tiago Maritan e Thaís Gaudencio no Centro de Informática (UFPB).
 
 # Instalação
 
