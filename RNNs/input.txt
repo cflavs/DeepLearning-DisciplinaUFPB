@@ -1,0 +1,1 @@
+Deep Learning Capacitacao LAVID - LSTM E RNN
