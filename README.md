@@ -1,5 +1,5 @@
 # DeepLearning-DisciplinaUFPB
-Repositório com o material de apoio para as disciplinas de Deep Learning, ministradas pelos professores Leonardo Vidal, Tiago Maritan e Thaís Gaudencio no Centro de Informática (UFPB).
+Repositório com o material de apoio para as disciplinas de Deep Learning, ministradas pelos professores Leonardo Vidal, Tiago Maritan e Thaís Gaudencio no Centro de Informática (UFPB). O repositório também é utilizado para capacitações do LAViD sobre Deep Learning.
 
 # Instalação
 
